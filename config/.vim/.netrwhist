@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/jffg04/vim-colors-solarized-master'
+let g:netrw_dirhist_6='/Users/jffg04/qwikmd/templates/Implicit'
+let g:netrw_dirhist_5='/Users/jffg04/qwikmd/templates'
+let g:netrw_dirhist_4='/Users/jffg04/qwikmd'
+let g:netrw_dirhist_3='/Users/jffg04/.ssh'
+let g:netrw_dirhist_2='/Users/jffg04/IFTH-UAM/Kv1.5/MD/Clusters/0.25_resnr'
+let g:netrw_dirhist_1='/Users/jffg04/.ssh'
